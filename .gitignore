@@ -1,0 +1,7 @@
+2K/
+dep*/
+dev*/
+*.DS_Store
+test*/
+*.gz
+
